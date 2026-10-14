@@ -1,0 +1,3 @@
+Canned Soup,20,20
+Fih,50,10
+Zawadika Cookie,9,99

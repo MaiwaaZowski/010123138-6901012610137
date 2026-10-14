@@ -1,0 +1,10 @@
+1,Mr.A,CprE.,17
+2,Mr.B,CprE.,16
+3,Mr.Beast,Youtube,28
+4,Miss C,Dream Elementary Teacher,25
+5,Charlie Kirk,Politic,31
+6,Hikaru Nakamura,Chess,38
+7,SigmaBoy,Mewing,12
+8,Siddhatha Emerald,Music,24
+9,Adolf Hitler,Politic,56
+10,Micheal Jackson,Music,50
